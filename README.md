@@ -9,4 +9,4 @@ Este é um projeto simples em Python que faz a conversão de um valor em reais (
 3. No terminal, navegue até a pasta onde está o arquivo e execute:
    ```bash
    python conversor_moedas.py
-![Interface do conversor](interface%20conversor%20gr%C3%A1fico.png)
+https://github.com/Gyzelle17/conversor-moedas-python/blob/main/interface%20gr%C3%A1fica%20conversor.png
