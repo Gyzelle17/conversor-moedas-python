@@ -10,4 +10,4 @@ Este é um projeto simples em Python que faz a conversão de um valor em reais (
    ```bash
    python conversor_moedas.py
 Interface gráfica do conversor
-![Interface do conversor](https://raw.githubusercontent.com/Gyzelle17/conversor-moedas-python/main/interface%20conversor%20gr%C3%A1fico%20conversor.png)
+![Interface gráfica conversor](https://raw.githubusercontent.com/Gyzelle17/conversor-moedas-python/main/interface%20conversor%20gr%C3%A1fico%20conversor.png)
